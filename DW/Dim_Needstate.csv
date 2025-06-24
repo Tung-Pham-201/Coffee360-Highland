@@ -1,0 +1,16 @@
+Needstate;NeedstateGroup;Needstate_ID
+Drinking coffee;Drinking beverages;1
+Drinking other beverages (excluding tea, coffee, freeze);Drinking beverages;2
+Drinking tea;Drinking beverages;3
+Drinking ice-blended;Drinking beverages;4
+Socializing with colleagues;Socializing;5
+Socializing with family / relatives;Socializing;6
+Socialzing;Socializing;7
+Socializing with friends;Socializing;8
+Enterntainment (watching movies. Playing games, browsing web,…);Relaxing & entertainment;9
+Relaxing (Alone);Relaxing & entertainment;10
+Have meals (breakfast / lunch / dinner);Meals & Snack;11
+Have snack / pastry;Meals & Snack;12
+Studying / Reading books;Studying & Others;13
+Other;Studying & Others;14
+Working / Business meeting;Working & business meeting;15

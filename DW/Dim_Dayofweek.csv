@@ -1,0 +1,8 @@
+DayofWeek_ID;Dayofweek;Weekday#end
+2;Monday;Weekday
+3;Tuesday;Weekday
+4;Wednesday;Weekday
+5;Thursday;Weekday
+6;Friday;Weekday
+7;Saturday;Weekend
+8;Sunday;Weekend

@@ -1,0 +1,7 @@
+Daypart;Daypart_ID
+5 PM - before 9 PM;1
+9 AM - before 11 AM;2
+9 PM or later;3
+2 PM - before 5 PM;4
+11 AM - before 2 PM;5
+Before 9 AM;6
